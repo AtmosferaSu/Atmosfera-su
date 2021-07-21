@@ -1,14 +1,14 @@
 <h1 align="center">Aтмосфера.su</h1>
-<p>Hi! I'm Aтмосфера.su (Tuna). I'm junior backand developer. My code story started in 2017. </p>
+<p align="center">Hi! I'm Aтмосфера.su (Tuna). I'm junior backand developer. My code story started in 2017. </p>
 
-<center>
+
 |Languages I can work with|
 |--------|
 |Javascript|
 |Python|
 |C#|
 |Dart|
-</center>
+
 
 
 <a href="https://www.instagram.com/atmosfera_su/">
