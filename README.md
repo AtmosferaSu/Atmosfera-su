@@ -27,6 +27,7 @@
 <a href="https://discord.com/users/486857204205486091" align=left>
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/discord-icon.png" align="left">
 </a>
+<br>
 <h2>Discord</h2>
 
 
@@ -39,5 +40,5 @@
 <a href="https://steamcommunity.com/id/atmosfera-su/" align="left">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/steam-icon.png" align="left">
 </a>
-
+<br>
 <h2 align="left">Steam</h2>
