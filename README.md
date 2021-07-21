@@ -30,7 +30,7 @@
 <h2>Discord</h2>
 
 
-<a href="https://open.spotify.com/user/bxabsuy5wh19yeube2pdmnprw">
-<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Spotify-icon.png">
+<a href="https://open.spotify.com/user/bxabsuy5wh19yeube2pdmnprw" align="right">
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Spotify-icon.png" align="right">
 </a>
 <h2>Spotify</h2>
