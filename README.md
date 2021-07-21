@@ -33,4 +33,4 @@
 <a href="https://open.spotify.com/user/bxabsuy5wh19yeube2pdmnprw" align="right">
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Spotify-icon.png" align="right">
 </a>
-<h2>Spotify</h2>
+<h2 align="right">Spotify</h2>
