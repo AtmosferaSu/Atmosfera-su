@@ -16,6 +16,6 @@
 |Firebase|
 |MongoDB|
 
-<a href="https://www.instagram.com/atmosfera_su/" align="left">
-<img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/128/Active-Instagram-3-icon.png">
+<a href="https://www.instagram.com/atmosfera_su/" align="right">
+<img align="right" src="https://icons.iconarchive.com/icons/designbolts/free-instagram/128/Active-Instagram-3-icon.png">
 </a>
