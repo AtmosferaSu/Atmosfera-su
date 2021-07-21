@@ -28,3 +28,9 @@
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/discord-icon.png" align="left">
 </a>
 <h2>Discord</h2>
+
+
+<a href="https://open.spotify.com/user/bxabsuy5wh19yeube2pdmnprw">
+<img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Spotify-icon.png">
+</a>
+<h2>Spotify</h2>
