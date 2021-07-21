@@ -21,7 +21,7 @@
 </a>
 
 
-
+<br>
 <h2 align="right">Instagram</h2>
 
 <a href="https://discord.com/users/486857204205486091" align=left>
