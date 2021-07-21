@@ -33,8 +33,9 @@
 <a href="https://open.spotify.com/user/bxabsuy5wh19yeube2pdmnprw" align="right">
 <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Spotify-icon.png" align="right">
 </a>
-<h2 align="right">Spotify</h2>
 <br>
+<h2 align="right">Spotify</h2>
+
 <a href="https://steamcommunity.com/id/atmosfera-su/" align="left">
 <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/steam-icon.png" align="left">
 </a>
