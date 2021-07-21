@@ -4,5 +4,5 @@
 
 
 <a href="https://www.instagram.com/atmosfera_su/">
-<img src="https://www.neuroclinic.kz/bitrix/templates/beauty_s1_kz/images/back/instagram.png">
+<img src="https://icons.iconarchive.com/icons/designbolts/free-instagram/128/Active-Instagram-3-icon.png">
 </a>
